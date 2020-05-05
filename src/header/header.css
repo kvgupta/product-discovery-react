@@ -1,0 +1,15 @@
+.header {
+    margin: 0 auto;
+    background-color: #000;
+    color: #fff;
+    text-align: center;   
+}
+.header h3 {
+    padding: 2.5rem;
+    width: 1200px;
+    margin: 0 auto;
+}
+.header .filter {
+    width: 1200px;
+    margin: 0 auto;
+}

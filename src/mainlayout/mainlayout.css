@@ -1,0 +1,25 @@
+.content {
+    box-sizing: border-box;
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.filterValue {
+    width: 1200px;
+    margin: 10px auto;
+    text-align: center;
+}
+.filterValue div {
+    padding: 10px;
+    background: #afafaf;
+    border-radius: 4px;
+    display: inline-block;
+    margin: 5px;
+    text-align: center;
+    cursor: pointer;
+}
